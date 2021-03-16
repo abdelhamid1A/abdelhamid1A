@@ -17,5 +17,20 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)
 
+### My Github Stats ###
+
+<div align="center">
+<a>
+  <img src="https://github-readme-stats.vercel.app/api?username=abdelhamid1A&theme=tokyonight&show_icons=true" height=200 />
+</a>
+<a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdelhamid1A&langs_count=5&theme=tokyonight" height=200 />
+</a>
+<br>
+<a>
+  <img src="https://activity-graph.herokuapp.com/graph?username=abdelhamid1A&theme=rogue" height=250 alt="graph"/>
+</a>
+</div>
+
 
 
